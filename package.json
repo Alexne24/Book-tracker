@@ -1,0 +1,6 @@
+{
+  "name": "book-tracker",
+  "private": true,
+  "type": "module",
+  "workspaces": ["frontend", "ui-library"]
+}
